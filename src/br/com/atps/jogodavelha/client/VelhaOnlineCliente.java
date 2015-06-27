@@ -36,7 +36,7 @@ public class VelhaOnlineCliente implements Runnable {
         frame.setVisible(true);   
         
     }
-	@Override
+	//@Override
 	public void run() {
 		VelhaOnlineCliente.main(new String[2]);		
 	}

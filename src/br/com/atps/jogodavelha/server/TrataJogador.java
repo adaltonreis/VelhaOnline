@@ -27,7 +27,7 @@ public class TrataJogador implements Runnable {
         this.jogo = jogo;
     }
 
-    @Override
+   // @Override
     public void run() {
        recebeMensagem();
     }
